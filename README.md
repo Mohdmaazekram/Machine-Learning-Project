@@ -7,8 +7,8 @@ So as a Data Scientists We have to Make a Model Using Machine Learning to Help T
 
 Step For Build This Model :-
 
-  Step 1 : Load the Data Into the System.\n
-  Step 2 : Analyzed and Cleaned the Data Ensure That it Was Suitable For Further Processing or Not.\n
+  Step 1 : Load the Data Into the System.\
+  Step 2 : Analyzed and Cleaned the Data Ensure That it Was Suitable For Further Processing or Not.\
   Step 3 : Performing Exploratory Data Analysis (EDA) Process.\n
   Step 4 : Train and Test the Data.\n
   Step 5 : Tuning The Parameters.\n
