@@ -9,10 +9,10 @@ Step For Build This Model :-
 
   Step 1 : Load the Data Into the System.\
   Step 2 : Analyzed and Cleaned the Data Ensure That it Was Suitable For Further Processing or Not.\
-  Step 3 : Performing Exploratory Data Analysis (EDA) Process.\n
-  Step 4 : Train and Test the Data.\n
-  Step 5 : Tuning The Parameters.\n
-  Step 6 : Predict and Check Accuarcy Score.\n
-  Step 7 : Handel Overfitting & Underfitting.\n
+  Step 3 : Performing Exploratory Data Analysis (EDA) Process.\
+  Step 4 : Train and Test the Data.\
+  Step 5 : Tuning The Parameters.\
+  Step 6 : Predict and Check Accuarcy Score.\
+  Step 7 : Handel Overfitting & Underfitting.\
 
 After Performing This Above Steps . It Was Found That Both Decision Tree and Random Forest Models had the Best Accuracy Scores and Good Prediction Capabilities.
