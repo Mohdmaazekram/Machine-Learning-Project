@@ -13,6 +13,6 @@ Step For Build This Model :-
   Step 4 : Train and Test the Data.\
   Step 5 : Tuning The Parameters.\
   Step 6 : Predict and Check Accuarcy Score.\
-  Step 7 : Handel Overfitting & Underfitting.\
+  Step 7 : Handel Overfitting & Underfitting.
 
 After Performing This Above Steps . It Was Found That Both Decision Tree and Random Forest Models had the Best Accuracy Scores and Good Prediction Capabilities.
