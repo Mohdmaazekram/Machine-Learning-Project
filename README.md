@@ -1,6 +1,6 @@
 # Predicting Loan Repayment for LendingClub
 
-**Overview:**\
+**Overview:**
 
 This project aims to develop a machine learning model to forecast users' ability to repay loans on time, leveraging historical data from LendingClub. The company, headquartered in San Francisco, California, pioneered peer-to-peer lending and is recognized for registering its offerings as securities with the Securities and Exchange Commission (SEC), along with introducing loan trading on a secondary market.
 
